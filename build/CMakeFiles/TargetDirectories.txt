@@ -1,0 +1,3 @@
+/home/lytchier/Documents/C++/Tetris/build/CMakeFiles/rebuild_cache.dir
+/home/lytchier/Documents/C++/Tetris/build/CMakeFiles/edit_cache.dir
+/home/lytchier/Documents/C++/Tetris/build/CMakeFiles/pro.dir

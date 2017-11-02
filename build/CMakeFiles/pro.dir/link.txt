@@ -1,0 +1,1 @@
+/usr/bin/c++      CMakeFiles/pro.dir/main.cpp.o  -o pro -rdynamic -lGLU -lGL -lsfml-system -lsfml-window -lsfml-graphics -lsfml-audio -lsfml-network 
