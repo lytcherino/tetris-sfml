@@ -5,7 +5,7 @@ project('Tetris')
 set(CMAKE_CXX_STANDARD 14)
 set(CMAKE_CXX_STANDARD_REQUIRED)
 
-set(SOURCE_FILES main.cpp)
+set(SOURCE_FILES main.cpp Piece.cpp Block.cpp GameEngine.cpp Display.cpp Board.cpp Cell.cpp GameLogic.cpp PieceFactory.cpp ResourceHolder.cpp GameResource.cpp)
 
 set(CMAKE_MODULE_PATH "/usr/share/SFML/cmake/Modules")
 

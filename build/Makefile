@@ -123,6 +123,276 @@ pro/fast:
 	$(MAKE) -f CMakeFiles/pro.dir/build.make CMakeFiles/pro.dir/build
 .PHONY : pro/fast
 
+Block.o: Block.cpp.o
+
+.PHONY : Block.o
+
+# target to build an object file
+Block.cpp.o:
+	$(MAKE) -f CMakeFiles/pro.dir/build.make CMakeFiles/pro.dir/Block.cpp.o
+.PHONY : Block.cpp.o
+
+Block.i: Block.cpp.i
+
+.PHONY : Block.i
+
+# target to preprocess a source file
+Block.cpp.i:
+	$(MAKE) -f CMakeFiles/pro.dir/build.make CMakeFiles/pro.dir/Block.cpp.i
+.PHONY : Block.cpp.i
+
+Block.s: Block.cpp.s
+
+.PHONY : Block.s
+
+# target to generate assembly for a file
+Block.cpp.s:
+	$(MAKE) -f CMakeFiles/pro.dir/build.make CMakeFiles/pro.dir/Block.cpp.s
+.PHONY : Block.cpp.s
+
+Board.o: Board.cpp.o
+
+.PHONY : Board.o
+
+# target to build an object file
+Board.cpp.o:
+	$(MAKE) -f CMakeFiles/pro.dir/build.make CMakeFiles/pro.dir/Board.cpp.o
+.PHONY : Board.cpp.o
+
+Board.i: Board.cpp.i
+
+.PHONY : Board.i
+
+# target to preprocess a source file
+Board.cpp.i:
+	$(MAKE) -f CMakeFiles/pro.dir/build.make CMakeFiles/pro.dir/Board.cpp.i
+.PHONY : Board.cpp.i
+
+Board.s: Board.cpp.s
+
+.PHONY : Board.s
+
+# target to generate assembly for a file
+Board.cpp.s:
+	$(MAKE) -f CMakeFiles/pro.dir/build.make CMakeFiles/pro.dir/Board.cpp.s
+.PHONY : Board.cpp.s
+
+Cell.o: Cell.cpp.o
+
+.PHONY : Cell.o
+
+# target to build an object file
+Cell.cpp.o:
+	$(MAKE) -f CMakeFiles/pro.dir/build.make CMakeFiles/pro.dir/Cell.cpp.o
+.PHONY : Cell.cpp.o
+
+Cell.i: Cell.cpp.i
+
+.PHONY : Cell.i
+
+# target to preprocess a source file
+Cell.cpp.i:
+	$(MAKE) -f CMakeFiles/pro.dir/build.make CMakeFiles/pro.dir/Cell.cpp.i
+.PHONY : Cell.cpp.i
+
+Cell.s: Cell.cpp.s
+
+.PHONY : Cell.s
+
+# target to generate assembly for a file
+Cell.cpp.s:
+	$(MAKE) -f CMakeFiles/pro.dir/build.make CMakeFiles/pro.dir/Cell.cpp.s
+.PHONY : Cell.cpp.s
+
+Display.o: Display.cpp.o
+
+.PHONY : Display.o
+
+# target to build an object file
+Display.cpp.o:
+	$(MAKE) -f CMakeFiles/pro.dir/build.make CMakeFiles/pro.dir/Display.cpp.o
+.PHONY : Display.cpp.o
+
+Display.i: Display.cpp.i
+
+.PHONY : Display.i
+
+# target to preprocess a source file
+Display.cpp.i:
+	$(MAKE) -f CMakeFiles/pro.dir/build.make CMakeFiles/pro.dir/Display.cpp.i
+.PHONY : Display.cpp.i
+
+Display.s: Display.cpp.s
+
+.PHONY : Display.s
+
+# target to generate assembly for a file
+Display.cpp.s:
+	$(MAKE) -f CMakeFiles/pro.dir/build.make CMakeFiles/pro.dir/Display.cpp.s
+.PHONY : Display.cpp.s
+
+GameEngine.o: GameEngine.cpp.o
+
+.PHONY : GameEngine.o
+
+# target to build an object file
+GameEngine.cpp.o:
+	$(MAKE) -f CMakeFiles/pro.dir/build.make CMakeFiles/pro.dir/GameEngine.cpp.o
+.PHONY : GameEngine.cpp.o
+
+GameEngine.i: GameEngine.cpp.i
+
+.PHONY : GameEngine.i
+
+# target to preprocess a source file
+GameEngine.cpp.i:
+	$(MAKE) -f CMakeFiles/pro.dir/build.make CMakeFiles/pro.dir/GameEngine.cpp.i
+.PHONY : GameEngine.cpp.i
+
+GameEngine.s: GameEngine.cpp.s
+
+.PHONY : GameEngine.s
+
+# target to generate assembly for a file
+GameEngine.cpp.s:
+	$(MAKE) -f CMakeFiles/pro.dir/build.make CMakeFiles/pro.dir/GameEngine.cpp.s
+.PHONY : GameEngine.cpp.s
+
+GameLogic.o: GameLogic.cpp.o
+
+.PHONY : GameLogic.o
+
+# target to build an object file
+GameLogic.cpp.o:
+	$(MAKE) -f CMakeFiles/pro.dir/build.make CMakeFiles/pro.dir/GameLogic.cpp.o
+.PHONY : GameLogic.cpp.o
+
+GameLogic.i: GameLogic.cpp.i
+
+.PHONY : GameLogic.i
+
+# target to preprocess a source file
+GameLogic.cpp.i:
+	$(MAKE) -f CMakeFiles/pro.dir/build.make CMakeFiles/pro.dir/GameLogic.cpp.i
+.PHONY : GameLogic.cpp.i
+
+GameLogic.s: GameLogic.cpp.s
+
+.PHONY : GameLogic.s
+
+# target to generate assembly for a file
+GameLogic.cpp.s:
+	$(MAKE) -f CMakeFiles/pro.dir/build.make CMakeFiles/pro.dir/GameLogic.cpp.s
+.PHONY : GameLogic.cpp.s
+
+GameResource.o: GameResource.cpp.o
+
+.PHONY : GameResource.o
+
+# target to build an object file
+GameResource.cpp.o:
+	$(MAKE) -f CMakeFiles/pro.dir/build.make CMakeFiles/pro.dir/GameResource.cpp.o
+.PHONY : GameResource.cpp.o
+
+GameResource.i: GameResource.cpp.i
+
+.PHONY : GameResource.i
+
+# target to preprocess a source file
+GameResource.cpp.i:
+	$(MAKE) -f CMakeFiles/pro.dir/build.make CMakeFiles/pro.dir/GameResource.cpp.i
+.PHONY : GameResource.cpp.i
+
+GameResource.s: GameResource.cpp.s
+
+.PHONY : GameResource.s
+
+# target to generate assembly for a file
+GameResource.cpp.s:
+	$(MAKE) -f CMakeFiles/pro.dir/build.make CMakeFiles/pro.dir/GameResource.cpp.s
+.PHONY : GameResource.cpp.s
+
+Piece.o: Piece.cpp.o
+
+.PHONY : Piece.o
+
+# target to build an object file
+Piece.cpp.o:
+	$(MAKE) -f CMakeFiles/pro.dir/build.make CMakeFiles/pro.dir/Piece.cpp.o
+.PHONY : Piece.cpp.o
+
+Piece.i: Piece.cpp.i
+
+.PHONY : Piece.i
+
+# target to preprocess a source file
+Piece.cpp.i:
+	$(MAKE) -f CMakeFiles/pro.dir/build.make CMakeFiles/pro.dir/Piece.cpp.i
+.PHONY : Piece.cpp.i
+
+Piece.s: Piece.cpp.s
+
+.PHONY : Piece.s
+
+# target to generate assembly for a file
+Piece.cpp.s:
+	$(MAKE) -f CMakeFiles/pro.dir/build.make CMakeFiles/pro.dir/Piece.cpp.s
+.PHONY : Piece.cpp.s
+
+PieceFactory.o: PieceFactory.cpp.o
+
+.PHONY : PieceFactory.o
+
+# target to build an object file
+PieceFactory.cpp.o:
+	$(MAKE) -f CMakeFiles/pro.dir/build.make CMakeFiles/pro.dir/PieceFactory.cpp.o
+.PHONY : PieceFactory.cpp.o
+
+PieceFactory.i: PieceFactory.cpp.i
+
+.PHONY : PieceFactory.i
+
+# target to preprocess a source file
+PieceFactory.cpp.i:
+	$(MAKE) -f CMakeFiles/pro.dir/build.make CMakeFiles/pro.dir/PieceFactory.cpp.i
+.PHONY : PieceFactory.cpp.i
+
+PieceFactory.s: PieceFactory.cpp.s
+
+.PHONY : PieceFactory.s
+
+# target to generate assembly for a file
+PieceFactory.cpp.s:
+	$(MAKE) -f CMakeFiles/pro.dir/build.make CMakeFiles/pro.dir/PieceFactory.cpp.s
+.PHONY : PieceFactory.cpp.s
+
+ResourceHolder.o: ResourceHolder.cpp.o
+
+.PHONY : ResourceHolder.o
+
+# target to build an object file
+ResourceHolder.cpp.o:
+	$(MAKE) -f CMakeFiles/pro.dir/build.make CMakeFiles/pro.dir/ResourceHolder.cpp.o
+.PHONY : ResourceHolder.cpp.o
+
+ResourceHolder.i: ResourceHolder.cpp.i
+
+.PHONY : ResourceHolder.i
+
+# target to preprocess a source file
+ResourceHolder.cpp.i:
+	$(MAKE) -f CMakeFiles/pro.dir/build.make CMakeFiles/pro.dir/ResourceHolder.cpp.i
+.PHONY : ResourceHolder.cpp.i
+
+ResourceHolder.s: ResourceHolder.cpp.s
+
+.PHONY : ResourceHolder.s
+
+# target to generate assembly for a file
+ResourceHolder.cpp.s:
+	$(MAKE) -f CMakeFiles/pro.dir/build.make CMakeFiles/pro.dir/ResourceHolder.cpp.s
+.PHONY : ResourceHolder.cpp.s
+
 main.o: main.cpp.o
 
 .PHONY : main.o
@@ -159,6 +429,36 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... edit_cache"
 	@echo "... pro"
+	@echo "... Block.o"
+	@echo "... Block.i"
+	@echo "... Block.s"
+	@echo "... Board.o"
+	@echo "... Board.i"
+	@echo "... Board.s"
+	@echo "... Cell.o"
+	@echo "... Cell.i"
+	@echo "... Cell.s"
+	@echo "... Display.o"
+	@echo "... Display.i"
+	@echo "... Display.s"
+	@echo "... GameEngine.o"
+	@echo "... GameEngine.i"
+	@echo "... GameEngine.s"
+	@echo "... GameLogic.o"
+	@echo "... GameLogic.i"
+	@echo "... GameLogic.s"
+	@echo "... GameResource.o"
+	@echo "... GameResource.i"
+	@echo "... GameResource.s"
+	@echo "... Piece.o"
+	@echo "... Piece.i"
+	@echo "... Piece.s"
+	@echo "... PieceFactory.o"
+	@echo "... PieceFactory.i"
+	@echo "... PieceFactory.s"
+	@echo "... ResourceHolder.o"
+	@echo "... ResourceHolder.i"
+	@echo "... ResourceHolder.s"
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"

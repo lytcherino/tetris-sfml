@@ -1,0 +1,3 @@
+#include "ResourceHolder.h"
+
+// empty

@@ -7,7 +7,12 @@
 namespace Display
 {
   constexpr int WIDTH = 1920;
-  constexpr int HEIGHT = 1080;
+  constexpr int HEIGHT = 1920;
+
+  extern sf::RenderWindow window;
+
+  extern unsigned int frameRateLimit;
+  extern std::string gameName;
 
   void initialise();
 
